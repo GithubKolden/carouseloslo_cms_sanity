@@ -44,8 +44,8 @@ export default {
         },
         {
             name: 'ferskhet',
-            title: 'ferskhet',
-            type: 'string',
+            title: 'Er den Fersk?',
+            type: 'boolean',
         }
 
     ]

@@ -13,25 +13,12 @@ export default {
             }
         },
         {
-            name: 'contact',
-            title: 'Contact Information',
+            name: 'about',
+            title: 'About',
             type: 'string',
+            rows: 5,
         },
-        {
-            name: 'email',
-            title: 'Email',
-            type: 'string',
-        },
-        {
-            name: 'telefon',
-            title: 'Telefon',
-            type: 'string',
-        },
-        {
-            name: 'adresse',
-            title: 'Adresse',
-            type: 'string',
-        },
+       
         {
             name: 'slug',
             title: 'Slug',
