@@ -1,9 +1,7 @@
-# Sanity Clean Content Studio
+Step 1
 
-Congratulations, you have now installed the Sanity Content Studio, an open source real-time content editing environment connected to the Sanity backend.
+type "npm i" in terminal to install dependencies 
 
-Now you can do the following things:
+Step 2
 
-- [Read “getting started” in the docs](https://www.sanity.io/docs/introduction/getting-started?utm_source=readme)
-- [Join the community Slack](https://slack.sanity.io/?utm_source=readme)
-- [Extend and build plugins](https://www.sanity.io/docs/content-studio/extending?utm_source=readme)
+type "Sanity start" in terminal to start localhost server 
